@@ -15,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IndranujGhosh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0455-assign-cookies](https://github.com/IndranujGhosh/LeetCode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -61,4 +62,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/IndranujGhosh/LeetCode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IndranujGhosh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IndranujGhosh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
