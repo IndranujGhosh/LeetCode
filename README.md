@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/IndranujGhosh/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/IndranujGhosh/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/IndranujGhosh/LeetCode/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/IndranujGhosh/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/IndranujGhosh/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +23,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/IndranujGhosh/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/IndranujGhosh/LeetCode/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
@@ -46,4 +49,16 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/IndranujGhosh/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/IndranujGhosh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/IndranujGhosh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/IndranujGhosh/LeetCode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/IndranujGhosh/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/IndranujGhosh/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
